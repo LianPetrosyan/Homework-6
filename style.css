@@ -1,0 +1,44 @@
+body{
+    font-family: "Nunito";
+    padding: 30px 180px;
+}
+
+.main_info{
+    padding: 20px;
+    background-color: #5371af;
+    color: white;
+    border: 2px solid black;
+    /* aveli hesht
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around */
+}
+h1{
+    font-size: 40px;
+}
+a:link{
+    color: white;
+}
+img{
+    float: right;
+    margin-top: -195px;
+    margin-right: 50px;
+}
+table{
+    width: 100%;
+    padding: 50px 0px;
+    border-collapse: collapse;
+   margin-top: 20px;
+}
+th, tr, td{
+    border: 2px solid black;
+    padding: 20px;
+}
+tr{
+    height: 350px;
+}
+th{
+    background-color: #5371af;
+    color: white;
+    font-size: 19px;
+}
